@@ -1,0 +1,1 @@
+This folder contains responses to all the exercises under Project 0x01-emacs
